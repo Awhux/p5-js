@@ -1,0 +1,21 @@
+{
+  "name": "@p5-js/dithering",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "@p5-js/eslint": "workspace:*",
+    "@p5-js/p5": "workspace:*",
+    "@p5-js/typescript-config": "workspace:*",
+    "@types/node": "^22.0.0",
+    "@types/p5": "^1.7.6"
+  },
+  "dependencies": {
+    "p5": "^1.9.4",
+    "tsup": "^8.2.3",
+    "tsx": "^4.16.2",
+    "vite": "^5.3.5"
+  }
+}
