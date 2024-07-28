@@ -1,0 +1,6 @@
+{
+  "extends": "@p5-js/typescript-config/base.json",
+  "compilerOptions": {},
+  "include": ["**/*.ts"],
+  "exclude": ["node_modules"]
+}
