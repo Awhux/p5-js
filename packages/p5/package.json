@@ -1,0 +1,16 @@
+{
+  "name": "@p5-js/p5",
+  "version": "0.0.0",
+  "private": true,
+  "main": "index.ts",
+  "types": "index.d.ts",
+  "devDependencies": {
+    "@p5-js/eslint": "workspace:*",
+    "@p5-js/typescript-config": "workspace:*",
+    "@types/node": "^22.0.0",
+    "@types/p5": "^1.7.6"
+  },
+  "dependencies": {
+    "p5": "^1.9.4"
+  }
+}
